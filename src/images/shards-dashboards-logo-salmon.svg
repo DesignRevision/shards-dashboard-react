@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Blog-Overview-Template" transform="translate(-98.000000, -52.000000)" fill="#FF4169">
+            <g id="Sidebar">
+                <g id="Sidebar-Header-(Logo)">
+                    <g id="Logo" transform="translate(98.000000, 49.000000)">
+                        <path d="M21.9333011,33.314967 L18.0691155,21.8037699 L24.5642017,17.9387788 L28.0175608,22.8727243 L21.9333011,33.314967 Z M19.4087321,35.609151 L12.6663444,24.1801192 L16.4902529,22.8646689 L20.3133559,34.0463992 L19.4087321,35.609151 Z M20.2311906,10.390849 L23.8488803,16.5991622 L12.1733527,22.8066699 L20.2311906,10.390849 Z M20,3 C8.95440632,3 0,11.9544063 0,23 C0,34.0455937 8.95440632,43 20,43 C31.0447881,43 39.9991945,34.0455937 39.9991945,23 C39.9991945,11.9544063 31.0447881,3 20,3 L20,3 Z" id="Logo-Icon"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

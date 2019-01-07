@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Shards---Dashboard---Overview-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-118.000000, -54.000000)">
+        <g id="Sidebar" fill="#007BFF">
+            <g id="Logo" transform="translate(118.000000, 54.000000)">
+                <path d="M21.9333011,30.314967 L18.0691155,18.8037699 L24.5642017,14.9387788 L28.0175608,19.8727243 L21.9333011,30.314967 Z M19.4087321,32.609151 L12.6663444,21.1801192 L16.4902529,19.8646689 L20.3133559,31.0463992 L19.4087321,32.609151 Z M20.2311906,7.39084904 L23.8488803,13.5991622 L12.1733527,19.8066699 L20.2311906,7.39084904 Z M20,0 C8.95440632,0 0,8.95440632 0,20 C0,31.0455937 8.95440632,40 20,40 C31.0447881,40 39.9991945,31.0455937 39.9991945,20 C39.9991945,8.95440632 31.0447881,0 20,0 L20,0 Z" id="Logo-Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

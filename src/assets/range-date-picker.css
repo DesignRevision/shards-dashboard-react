@@ -1,0 +1,15 @@
+.date-range .react-datepicker-wrapper {
+  display: flex;
+  flex: 1;
+  max-width: 160px;
+}
+
+.date-range .react-datepicker__input-container {
+  width: 100%;
+}
+
+@media (max-width: 575px) {
+  .date-range .react-datepicker-wrapper {
+    max-width: 100%;
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "shards-dashboard-lite-react",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "./",
+  "dependencies": {
+    "camelize": "^1.0.0",
+    "chart.js": "^2.7.3",
+    "classnames": "^2.2.6",
+    "cross-env": "^5.2.0",
+    "dateformat": "^3.0.3",
+    "flux": "^3.1.3",
+    "lodash.find": "^4.6.0",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-ga": "^2.5.6",
+    "react-quill": "^1.3.3",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.1",
+    "shards-react": "^0.0.5",
+    "shortid": "^2.2.14"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build:prod": "cross-env REACT_APP_BASENAME=/demo/shards-dashboard-lite-react REACT_APP_GAID=UA-115105611-1 npm run build",
+    "build": "cross-env REACT_APP_BASENAME=/demo/shards-dashboard-lite-react react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

@@ -1,0 +1,4 @@
+[submodule "src/shards-dashboard"]
+	path = src/shards-dashboard
+	url = git@github.com:DesignRevision/shards-dashboard.git
+	branch = master
