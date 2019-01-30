@@ -16,7 +16,7 @@ const MainNavbar = ({ layout, stickyTop }) => {
 
   return (
     <div className={classes}>
-      <Container className="p-0">
+      <Container className="p-0" fluid>
         <Navbar type="light" className="align-items-stretch flex-md-nowrap p-0">
           <NavbarSearch />
           <NavbarNav />
