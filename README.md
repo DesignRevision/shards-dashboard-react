@@ -44,6 +44,7 @@ A free React admin dashboard template pack featuring a modern design system <br 
 ### Quick Start
 
 * Install dependencies by running `yarn` or `npm install`.
+* Clone submodule by running `git submodule init` then `git submodule update`.
 * Run `yarn start` or `npm run start` to start the local development server.
 * 😎 **That's it!** You're ready to start building awesome dashboards.
 
