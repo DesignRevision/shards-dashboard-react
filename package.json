@@ -21,6 +21,7 @@
     "shortid": "^2.2.14"
   },
   "scripts": {
+    "preinstall": "git submodule init && git submodule update",
     "start": "react-scripts start",
     "build:prod": "cross-env REACT_APP_BASENAME=/demo/shards-dashboard-lite-react REACT_APP_GAID=UA-115105611-1 npm run build",
     "build": "cross-env REACT_APP_BASENAME=/demo/shards-dashboard-lite-react react-scripts build",
