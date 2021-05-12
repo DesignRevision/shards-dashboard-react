@@ -5,7 +5,7 @@
   "homepage": "./",
   "dependencies": {
     "camelize": "^1.0.0",
-    "chart.js": "^2.7.3",
+    "chart.js": "^2.9.4",
     "classnames": "^2.2.6",
     "cross-env": "^5.2.0",
     "dateformat": "^3.0.3",
