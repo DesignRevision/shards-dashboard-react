@@ -39,6 +39,11 @@ export default class UserActions extends React.Component {
           <span className="d-none d-md-inline-block">Sierra Brooks</span>
         </DropdownToggle>
         <Collapse tag={DropdownMenu} right small open={this.state.visible}>
+          {/* This tag prop works to link to the correct page, however it's throwing a warning in console 
+          that prop type is not correct. 
+          Link to issue: https://github.com/DesignRevision/shards-dashboard-react/issues/26
+          Docs for Shards React Dropdowns: https://designrevision.com/docs/shards-react/component/dropdown
+          Docs for React Router Link: https://reactrouter.com/web/api/Link */}
           <DropdownItem tag={Link} to="user-profile">
             <i className="material-icons">&#xE7FD;</i> Profile
           </DropdownItem>
